@@ -1,9 +1,10 @@
 # Replicating forest fires
+Rosa Muilu, Binti Dekker, Martijn Schotte, Noah Zuijderwijk
+
 
 A replication of the self-organised critical (SOC) forest-fire model by Drossel & Schwabl (1992), built in Python with AgentPy. The goal is to demonstrate self-organised critical dynamics in a simple model. The replication used a forest fire simulation by Foramitti (2021) as a starting point.
 
-Complex Systems — Classic Model Replication & Critical Review (Group 7)
-Rosa Muilu, Binti Dekker, Martijn Schotte, Noah Zuijderwijk
+Complex Systems — Classic Model Replication & Critical Review
 
 ![Forest fire animation](forest_fire_animation.gif)
 
@@ -73,6 +74,9 @@ pip install -r requirements.txt
 ## Running the model
 
 Run the model directly from `replicateforestfires.ipynb`. You can set the lightning probability, the ratio of regrowth to lightning, the grid size and the number of time steps.
+
+## AI Statement
+This README was drafted with the help of an AI assistant (Claude) and reviewed and edited by the authors. The model, analysis and findings are our own.
 
 ## References
 
