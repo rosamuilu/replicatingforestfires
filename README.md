@@ -1,5 +1,6 @@
 # Replicating forest fires
-Rosa Muilu, Binti Dekker, Martijn Schotte, Noah Zuijderwijk
+Code: Rosa Muilu, Binti Dekker
+Writing: Martijn Schotte, Noah Zuijderwijk
 
 
 A replication of the self-organised critical (SOC) forest-fire model by Drossel & Schwabl (1992), built in Python with AgentPy. The goal is to demonstrate self-organised critical dynamics in a simple model. The replication used a forest fire simulation by Foramitti (2021) as a starting point.
